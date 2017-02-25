@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Simplify Zhihu",
+  "description": "A Chrome extension to simlify styles of Zhihu.com",
+  "version": "0.1.0",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://www.zhihu.com/*"]
+  }]
+}

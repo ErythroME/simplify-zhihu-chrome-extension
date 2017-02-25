@@ -1,0 +1,61 @@
+.zu-top {
+  background: rgba(255, 255, 255, 0.9) !important;
+  border-bottom: 1px solid #eee !important;
+  box-shadow: none !important;
+}
+
+.zu-top-link-logo,
+.zu-top-search-button,
+.top-nav-profile,
+.zu-top-add-question,
+.zhi {
+  padding-top: 0px !important;
+}
+
+.zu-top {
+  position: relative !important;
+}
+
+.zu-main-sidebar,
+.zu-top-link-logo,
+.zu-top-search-button,
+.top-nav-profile,
+.zu-top-add-question,
+.zu-main-sidebar {
+  display: none !important;
+}
+
+.top-nav-profile a {
+  text-shadow: none !important;
+}
+
+.zu-top-search-input {
+  box-shadow: none !important;
+  border: 1px solid #ccc !important;
+  background-color: transparent !important;
+}
+
+.zu-top-nav-li.current {
+  box-shadow: none !important;
+  color: black !important;
+  background: transparent !important;
+}
+.zu-top-nav-link {
+  color: #aaa !important;
+  text-shadow: none !important;
+}
+.zu-top-nav-link:hover {
+  color: #000 !important;
+}
+.zu-top-nav-link:active;
+.zu-top-nav-link:visited{
+  color: #aaa !important;
+}  
+
+.zu-top-nav-userinfo {
+  color: #ccc !important;
+}
+
+.zu-main-content-inner {
+  margin: 0 !important;
+}
