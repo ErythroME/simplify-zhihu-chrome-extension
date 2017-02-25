@@ -23,8 +23,12 @@ For me, it's simply a information resource, so I don't want to be disturbed by n
 
 1. Clone the repository
 
-```
-git clone https://github.com/ErythroME/simlify-zhihu-chrome-extension.git
-```
-
+  ```
+  git clone https://github.com/ErythroME/simlify-zhihu-chrome-extension.git
+  ```
+  
 2. Visite Chrome://extensions in Chrome and drag the downloaded folder into the window
+
+### License
+
+See [LICENSE](https://github.com/ErythroME/simlify-zhihu-chrome-extension/blob/master/LICENSE) for more details.
