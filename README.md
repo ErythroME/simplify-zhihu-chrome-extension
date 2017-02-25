@@ -13,13 +13,13 @@ Features:
 * Remove the fixed effect of the navbar
 * Hide unnecessary (personally) sidebar
 
-### Why
+## Why
 
 I just don't like the big, blur navbar on Zhihu.com.
 
 For me, it's simply a information resource, so I don't want to be disturbed by neither its redundant parts nor the SCREAMING design.
 
-### Installation
+## Installation
 
 1. Clone the repository
 
@@ -29,6 +29,6 @@ For me, it's simply a information resource, so I don't want to be disturbed by n
   
 2. Visite Chrome://extensions in Chrome and drag the downloaded folder into the window
 
-### License
+## License
 
 See [LICENSE](https://github.com/ErythroME/simlify-zhihu-chrome-extension/blob/master/LICENSE) for more details.
