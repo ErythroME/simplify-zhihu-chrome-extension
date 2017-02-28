@@ -8,10 +8,10 @@ After:
 
 Features:
 
-* Hide logo, button and user profile in navbar
+* Hide logo, buttons and user profile in navbar
 * Replace the old Zhihu brand blue background with simple white color for navbar
 * Remove the fixed effect of the navbar
-* Hide unnecessary (personally) sidebar
+* Hide (personally) unnecessary sidebar
 
 ## Why
 
@@ -27,7 +27,7 @@ For me, it's simply a information resource, so I don't want to be disturbed by n
   git clone https://github.com/ErythroME/simlify-zhihu-chrome-extension.git
   ```
   
-2. Visite Chrome://extensions in Chrome and drag the downloaded folder into the window
+2. Visite chrome://extensions in Chrome and drag the downloaded folder into the window
 
 ## License
 
