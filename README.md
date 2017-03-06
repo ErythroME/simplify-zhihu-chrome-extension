@@ -1,4 +1,4 @@
-# simlify-zhihu-chrome-extension
+# simplify-zhihu-chrome-extension
 
 Before:
 ![Before Image](http://7xit9q.com1.z0.glb.clouddn.com/before_2.png)
@@ -24,11 +24,11 @@ For me, it's simply a information resource, so I don't want to be disturbed by n
 1. Clone the repository
 
   ```
-  git clone https://github.com/ErythroME/simlify-zhihu-chrome-extension.git
+  git clone https://github.com/ErythroME/simplify-zhihu-chrome-extension.git
   ```
   
-2. Visite chrome://extensions in Chrome and drag the downloaded folder into the window
+2. Visit chrome://extensions in Chrome and drag the downloaded folder into the window
 
 ## License
 
-See [LICENSE](https://github.com/ErythroME/simlify-zhihu-chrome-extension/blob/master/LICENSE) for more details.
+See [LICENSE](https://github.com/ErythroME/simplify-zhihu-chrome-extension/blob/master/LICENSE) for more details.
