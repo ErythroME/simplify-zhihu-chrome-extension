@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Simplify Zhihu",
-  "description": "A Chrome extension to simlify styles of Zhihu.com",
+  "description": "A Chrome extension to simplify styles of Zhihu.com",
   "version": "0.1.0",
 
   "content_scripts": [{
